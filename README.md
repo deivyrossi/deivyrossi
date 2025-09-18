@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Deivy+Rossi;Be+Welcome!+:^%29)](https://git.io/typing-svg)
 
-Currently studying Computer Engineering at CEFET-MG Campus v
+Currently studying Computer Engineering at CEFET-MG Campus V
 
 * ✉️  You can contact me at [deivyrossi@gmail.com](mailto:deivyrossi@gmail.com)
 
